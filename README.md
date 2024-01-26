@@ -2,7 +2,7 @@
 
 * 👔    Hoje trabalho com Análise de Dados
 * 🧑‍🎓 Estudando python 
-* 👨‍💻   Especialidade: **Tableau** | **Power BI** | **PostgreSQL** | **ETL**
+* 👨‍💻   Especialidade: **Tableau** | **Power BI** | **PostgreSQL** | **Google Big Query** | **ETL** | **GCP**
 
 
 
